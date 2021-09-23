@@ -5,7 +5,7 @@ As per the data reported by **National Crime Records Burueau (NCRB), every hour 
 
 Getting good marks and learning concepts and new topics does not completely depends on how much time we do self-study, it also depends on our mental state, our environment of study, extra curriculur activities, activities at home, mentorship, etc. So, if some how, by using the data of the students such as age, family size, study time, activities, mother and father job time (basically to get an estimation of how much time they are with their child) etc if we can predict which students would be good and identify students who find it difficult to score good marks in the examination, so that people like teachers, parents, and friends can help him work on week aspects and try to make some improvement.
 
-So, I have collected a date set or 400 students and applied **linear regression** on this data. So, after creating a model we can input the student data and find out that he/she is working on right path and is not affected by some factors. If yes then we can guide him/her so that he/she can perform nicely.
+So, I have used this date set or 400 students and applied **linear regression** on this data. So, after creating a model we can input the student data and find out that he/she is working on right path and is not affected by some factors. If yes then we can guide him/her so that he/she can perform nicely.
 
 ## What I have done?
 1. First I imported the dataset into colab and analyze and understood the data set properly by going through some of the info like columns, info, etc.
